@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_175</name>
+   <tag></tag>
+   <elementGuidId>3da0917c-47fb-402d-9848-6a94e16adb21</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>98</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>var rp=$get('m_sqlRsWebPart_ctl00_ReportViewer_ctl09_ReportControl');if(rp&amp;&amp;rp.control)rp.control.InvokeReportAction('Drillthrough','94iT0R0R0x6C0x3:0');return false;</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onkeypress</name>
+      <type>Main</type>
+      <value>if(event.keyCode == 13 || event.which == 13){var rp=$get('m_sqlRsWebPart_ctl00_ReportViewer_ctl09_ReportControl');if(rp&amp;&amp;rp.control)rp.control.InvokeReportAction('Drillthrough','94iT0R0R0x6C0x3:0');}return false;</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>A1dcb1f11cdf142b0b458c2f60b9ba18e128a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_top</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>175</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P43633ade55bd49ce9d3138d40fb252aa_2_80iT0&quot;)/tbody[1]/tr[9]/td[@class=&quot;A1dcb1f11cdf142b0b458c2f60b9ba18e128c&quot;]/div[1]/table[@class=&quot;P43633ade55bd49ce9d3138d40fb252aa_2_r17&quot;]/tbody[1]/tr[1]/td[@class=&quot;A1dcb1f11cdf142b0b458c2f60b9ba18e128&quot;]/a[@class=&quot;A1dcb1f11cdf142b0b458c2f60b9ba18e128a&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

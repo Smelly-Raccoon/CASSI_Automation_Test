@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description></description>
+   <name>CASSI_Automation_Test</name>
+   <tag></tag>
+   <UUID>e8a816bb-7119-4575-aa4d-d2b9dfd6f498</UUID>
+   <pageLoadTimeout>30</pageLoadTimeout>
+</Project>

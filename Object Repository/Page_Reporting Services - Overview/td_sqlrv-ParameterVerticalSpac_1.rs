@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_sqlrv-ParameterVerticalSpac_1</name>
+   <tag></tag>
+   <elementGuidId>e7d9e77d-3958-436d-8bc4-ad8405771665</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sqlrv-ParameterVerticalSpacer</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ParameterTable_m_sqlRsWebPart_ctl00_ctl19_ctl06&quot;)/tbody[1]/tr[24]/td[@class=&quot;sqlrv-ParameterVerticalSpacer&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>
